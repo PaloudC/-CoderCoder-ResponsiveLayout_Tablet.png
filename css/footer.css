@@ -1,2 +1,9 @@
 /* FOOTER */
 /* ***** */
+
+footer{
+    background-color: grey;
+    font-size: 28px; color:aliceblue;
+    padding: 5px;
+    border-block-end-style: dashed;
+ }   

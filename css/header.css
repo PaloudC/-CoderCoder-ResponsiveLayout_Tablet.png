@@ -1,2 +1,13 @@
 /* HEADER */
 /* ***** */
+
+.header {
+    background-color: #2385e0;
+    font-size: 38px;
+    color: white;
+    padding: 20px;
+    box-decoration: line;
+    border-block-start-style: dashed;
+}
+
+
